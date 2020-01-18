@@ -28,3 +28,25 @@ This repository is to help you solve questions of C. And I have linked every que
 - [ ] Add all questions
 - [ ] Make better solutions
 - [ ] Add Category of solutions
+
+## :stars: Contributors
+<table>
+  <tr>
+    
+   <td align="center">
+      <a href="https://github.com/me">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png" width="100px;"/>
+      <br />
+      <sub><b>You ?</b></sub></a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/geekyarthurs">
+      <img src="https://avatars3.githubusercontent.com/u/36955694?s=460&v=4" width="100px;"/>
+      <br />
+      <sub><b>Mahesh C. Regmi</b></sub></a>
+      <br />
+    </td>
+   
+  </tr>
+</table>
